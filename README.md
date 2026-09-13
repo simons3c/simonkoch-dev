@@ -1,6 +1,6 @@
 ### Hey, I'm Simon Koch 👋
 
-IT student at **HTL Hollabrunn** (Informationstechnologie) — a 5-year technical college in Austria where I learn to build software, secure networks, and work with data. Graduating with the Austrian Matura + engineering diploma.
+IT student at **HTL Hollabrunn** (Informationstechnologie) --> a 5-year technical college in Austria where I learn to build software, secure networks, and work with data. Graduating with the Austrian Matura + engineering diploma.
 
 Currently building **RunCoach AI** — a self-hosted running analytics dashboard with an AI coaching engine powered by Claude + MCP. Think TrainingPeaks, but open-source and actually intelligent.
 
@@ -66,7 +66,7 @@ Currently building **RunCoach AI** — a self-hosted running analytics dashboard
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simonkoch-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-koch-it)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:simon.koch@stud.it.htl-hl.ac.at)
 
 > 📍 Korneuburg, Austria · Open to internships & collaborations
