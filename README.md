@@ -1,8 +1,6 @@
-### Hey, I'm Simon Koch 👋
+### Hey, I'm Simon 👋
 
 IT student at **HTL Hollabrunn** (Informationstechnologie) --> a 5-year technical college in Austria where I learn to build software, secure networks, and work with data. Graduating with the Austrian Matura + engineering diploma.
-
-Currently building **RunCoach AI** — a self-hosted running analytics dashboard with an AI coaching engine powered by Claude + MCP. Think TrainingPeaks, but open-source and actually intelligent.
 
 ---
 
